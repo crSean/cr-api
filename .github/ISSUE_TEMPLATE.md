@@ -7,16 +7,16 @@ If it’s a question (anything along the lines of “How do I … in Postman”)
 <!-- For Feature requests: -->
 ### Idea/request:
   1. Briefly explain the idea or request.
-  1. Briefly explain the rationale behind the request, or provide a use case.
-  1. In which request/endpoint does this apply?
-  1. Use the boxes at the bottom of this template to demonstrate a request and expected response.
+  2. Briefly explain the rationale behind the request, or provide a use case.
+  3. In which request/endpoint does this apply?
+  4. Use the boxes at the bottom of this template to demonstrate a request and expected response.
 
 <!-- For bug reports: -->
 ### Issue Report:
   1. Did you encounter this recently, or has this bug always been there?
-  1. Expected behaviour: 
-  1. Console logs (if applicable): 
-  1. Screenshots (if applicable):
+  2. Expected behaviour: 
+  3. Console logs (if applicable): 
+  4. Screenshots (if applicable):
 
 <!-- Steps to reproduce the problem -->
 
